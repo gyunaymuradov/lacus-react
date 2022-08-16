@@ -9714,7 +9714,7 @@ body #about #login-reg {
 }
 
 body #about .background-imgholder {
-	background: url(/lacus-react/images/back-6.jpeg);
+	background: url("/lacus-react/images/back-6.jpeg");
 	position: absolute;
 	width: 100%;
 	height: 100%;
