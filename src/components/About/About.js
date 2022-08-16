@@ -42,7 +42,7 @@ export const About = () => {
 						<div className="col-xs-12 col-sm-6 col-md-6 col-lg-5">
 							<img
 								width="auto"
-								src="./images/ferry.jpg"
+								src="/images/ferry.jpg"
 								className="attachment-full about-ferry"
 								alt="ferry"
 							/>

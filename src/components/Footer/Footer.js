@@ -11,7 +11,8 @@ export const Footer = () => {
 								<h4>Address</h4>
 								<hr />
 								<p>7200 Razgrad Vit 21, Bulgaria</p>
-								<Link to="/contacts" className="learnmore">
+								{/* <Link to="/lacus-react/contacts" className="learnmore"> */}
+									<Link to="/contacts" className="learnmore">
 									More <i className="fa fa-caret-right" />
 								</Link>
 							</div>
@@ -22,12 +23,15 @@ export const Footer = () => {
 								<hr />
 								<ul className="footer-links">
 									<li>
+										{/* <Link to="/lacus-react">Home</Link> */}
 										<Link to="/">Home</Link>
 									</li>
 									<li>
+										{/* <Link to="/lacus-react/about">About Us</Link> */}
 										<Link to="/about">About Us</Link>
 									</li>
 									<li>
+										{/* <Link to="/lacus-react/contacts">Contact</Link> */}
 										<Link to="/contacts">Contact</Link>
 									</li>
 									<li>

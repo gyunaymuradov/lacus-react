@@ -15,6 +15,10 @@ function App() {
 				<Route path="/" element={<Home />} />
 				<Route path="/about" element={<About />} />
 				<Route path="/contacts" element={<Contacts />} />
+				<Route path="*" element={<Home />} />
+				{/* <Route path="/lacus-react" element={<Home />} />
+				<Route path="/lacus-react/about" element={<About />} />
+				<Route path="/lacus-react/contacts" element={<Contacts />} /> */}
 			</Routes>
 
 			<Footer />

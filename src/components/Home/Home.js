@@ -13,8 +13,7 @@ export const Home = () => {
 					<div className="item active">
 						<div
 							className="fill"
-							style={{ backgroundImage: 'url("./images/back-4.jpg")' }}
-							// style={{ backgroundImage: process.env.PUBLIC_URL+'/images/back-4.jpg' }}
+							style={{ backgroundImage: 'url("/images/back-4.jpg")' }}
 						/>
 						<div className="carousel-caption slide-up">
 							<h1 className="banner_heading">
@@ -26,7 +25,7 @@ export const Home = () => {
 					<div className="item">
 						<div
 							className="fill"
-							style={{ backgroundImage: 'url("./images/back-1.jpg")' }}
+							style={{ backgroundImage: 'url("/images/back-1.jpg")' }}
 						/>
 						<div className="carousel-caption slide-up">
 							<h1 className="banner_heading">
@@ -38,7 +37,7 @@ export const Home = () => {
 					<div className="item">
 						<div
 							className="fill"
-							style={{ backgroundImage: 'url("./images/back-2.jpg")' }}
+							style={{ backgroundImage: 'url("/images/back-2.jpg")' }}
 						/>
 						<div className="carousel-caption slide-up">
 							<h1 className="banner_heading">
@@ -121,7 +120,7 @@ export const Home = () => {
 				<div className="image-holder col-lg-6 col-md-6 col-sm-6 col-xs-12 pull-left">
 					<div className="background-imgholder">
 						<img
-							src="./images/back-6.jpeg"
+							src="/images/back-6.jpeg"
 							alt="about"
 							className="img-responsive"
 							style={{ display: "none" }}
