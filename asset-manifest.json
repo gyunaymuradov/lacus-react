@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/lacus-react/static/js/main.5403b673.js",
-    "index.html": "/lacus-react/index.html",
-    "main.5403b673.js.map": "/lacus-react/static/js/main.5403b673.js.map"
+    "main.js": "/static/js/main.5403b673.js",
+    "index.html": "/index.html",
+    "main.5403b673.js.map": "/static/js/main.5403b673.js.map"
   },
   "entrypoints": [
     "static/js/main.5403b673.js"
