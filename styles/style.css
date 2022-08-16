@@ -9510,7 +9510,7 @@ body #myCarousel .item:before {
 	bottom: 0;
 	left: 0;
 	right: 0;
-	background: url(../img/banner-pattern.png) repeat;
+	/* background: url(../img/banner-pattern.png) repeat; */
 	background-color: rgba(25, 25, 25, 0.8);
 	z-index: 2;
 }
