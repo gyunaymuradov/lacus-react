@@ -170,6 +170,19 @@ export const Home = () => {
 					</div>
 				</div>
 			</section>
+
+			<section id="about-page-section-3">
+				<div className="container">
+					<div className="row">
+						<img
+							width="auto"
+							src="/images/next_generation_eu.png"
+							className="img-responsive"
+							alt="eu_fund"
+						/>
+					</div>
+				</div>
+			</section>
 		</>
 	);
 }

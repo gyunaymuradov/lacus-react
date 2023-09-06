@@ -35,7 +35,7 @@ export const Footer = () => {
 										<Link to="/contacts">Contact</Link>
 									</li>
 									<li>
-										<a href="https://www.logcom.at">Logcom</a>
+										<a href="https://www.logcom.at" target="_blank">Logcom</a>
 									</li>
 								</ul>
 							</div>
@@ -63,7 +63,7 @@ export const Footer = () => {
 				<div className="container">
 					<div className="row">
 						<div className="col-md-6 col-sm-6 col-xs-12 btm-footer-links">
-							<h5>© 2019 – 2022 Lacus Ltd. | All rights reserved</h5>
+							<h5>© 2019 – 2023 Lacus Ltd. | All rights reserved</h5>
 						</div>
 					</div>
 				</div>
